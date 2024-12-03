@@ -10,15 +10,15 @@ import (
 	"time"
 	"unsafe"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/log"
-	"github.com/Dreamacro/clash/tunnel/statistic"
+	C "github.com/jing-zhou/clash/constant"
+	"github.com/jing-zhou/clash/log"
+	"github.com/jing-zhou/clash/tunnel/statistic"
 
-	"github.com/Dreamacro/protobytes"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
+	"github.com/jing-zhou/protobytes"
 )
 
 var (

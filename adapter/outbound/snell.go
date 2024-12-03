@@ -6,11 +6,11 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Dreamacro/clash/common/structure"
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
-	obfs "github.com/Dreamacro/clash/transport/simple-obfs"
-	"github.com/Dreamacro/clash/transport/snell"
+	"github.com/jing-zhou/clash/common/structure"
+	"github.com/jing-zhou/clash/component/dialer"
+	C "github.com/jing-zhou/clash/constant"
+	obfs "github.com/jing-zhou/clash/transport/simple-obfs"
+	"github.com/jing-zhou/clash/transport/snell"
 )
 
 type Snell struct {

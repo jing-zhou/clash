@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/Dreamacro/protobytes"
+	"github.com/jing-zhou/protobytes"
 )
 
 type SessionStatus = byte

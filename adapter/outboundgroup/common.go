@@ -3,8 +3,8 @@ package outboundgroup
 import (
 	"time"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/constant/provider"
+	C "github.com/jing-zhou/clash/constant"
+	"github.com/jing-zhou/clash/constant/provider"
 )
 
 const (
