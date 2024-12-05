@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/sys/windows"
 
-	"github.com/Dreamacro/clash/common/pool"
+	"github.com/jing-zhou/clash/common/pool"
 )
 
 var (
